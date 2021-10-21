@@ -1,0 +1,16 @@
+{
+  "users": [
+    {
+      "name": "YUSUF ERDOGAN",
+      "department": "developer",
+      "salary": "4000",
+      "id": "kua0e3ha"
+    },
+    {
+      "name": "SABRI MESELE",
+      "department": "human resorce",
+      "salary": "4000",
+      "id": "kv14tb2g"
+    }
+  ]
+}
